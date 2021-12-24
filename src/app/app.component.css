@@ -1,0 +1,37 @@
+.center
+{
+    margin: auto;
+}
+.center #date
+{
+    position: relative;
+    left: 320px;
+    top: 15px;
+    font-size: medium;
+}
+.center #head
+{
+    position: relative;
+    top: -15px;
+}
+#contact
+{
+    width: 400px;
+    height: 200px;
+    margin-top: 130px;
+    margin-left: 50px;
+}
+mat-card {
+    max-width: 400px;
+    margin: 2em auto;
+    text-align: center;
+  }
+#dashboard
+{
+   float: right;
+   margin-top: -200px;
+   margin-right: 100px;
+   border-color: chartreuse;
+   background-color: coral;
+   width: 500px;
+}

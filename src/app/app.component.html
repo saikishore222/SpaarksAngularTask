@@ -1,0 +1,14 @@
+<mat-toolbar color="primary" class="navbar">
+  <div class="center">
+    <div id="date">
+      <span>{{ TodayDate | date: "MMM dd yyyy" }}</span>
+    </div>
+    <div id="head">
+      <span>SPAARKS ASSIGNMENT</span>
+    </div>
+  </div>
+ </mat-toolbar>
+ <div id="contact">
+  <app-contact-form></app-contact-form>
+ </div>
+ <router-outlet></router-outlet>

@@ -1,0 +1,48 @@
+mat-card {
+      max-width: 400px;
+      margin: 2em auto;
+      text-align: center;
+      background-color: rgb(236, 175, 188);
+      border-radius: 10px;
+    }
+    mat-form-field {
+          display: block;
+        }
+#dash
+{
+    float: right;
+    position: relative;
+    left: 790px;
+    margin-top: -450px;
+    width: 700px;
+    height: 480px;
+    background-color: rgb(82, 230, 222);
+    border-radius: 20px;
+}
+#dash span
+{
+    text-align: center;
+    margin-left: 300px;
+    margin-top: -30px;
+
+}
+#clear
+{
+    float: right;
+    margin-top: -40px;
+    margin-right: 70px;
+
+}
+.mat-elevation-z8
+{
+  width: 100%;
+  padding: 10px;
+}
+table
+{
+    width: 100%;
+    padding: 20px;
+    margin-left: 0px;
+    margin-top:10px;
+    border-radius: 10px;
+}
